@@ -1,0 +1,76 @@
+id: P4CAADA61
+initial_creation_type: input
+source_metadata:
+  title: Tathāgatagarbhasūtra
+  language: bo
+  volumes:
+    7a381479610243ffa29feb38e6a1e873:
+      title: 0 Nidāna
+      base_file: 0 Nidāna.txt
+      work_id: W72492CD3
+    c933840d494c4de59ef05367f80e44e4:
+      title: 1. The simile of a tathāgata in a lotus
+      base_file: 1. The simile of a tathāgata in a lotus.txt
+      work_id: W88898565
+    c3e8c739fa494e9390148fc170b9048d:
+      title: 10. Merit from propagating the TGS
+      base_file: 10. Merit from propagating the TGS.txt
+      work_id: WDFCD7AAF
+    b8d68faceba847b2a6fa474728d4535e:
+      title: 11. The story of *Sadāpramuktaraśmi and *Anantaraśmi
+      base_file: 11. The story of *Sadāpramuktaraśmi and *Anantaraśmi.txt
+      work_id: W245765E6
+    d88c448991434b19ad3ea353479fede1:
+      title: 12. Ānanda questions the Buddha about the length of time till perfection
+      base_file: 12. Ānanda questions the Buddha about the length of time till perfection.txt
+      work_id: W31EC6CE9
+    fd2d61e718404cb8b95790833ee07a0a:
+      title: 13. Colophon
+      base_file: 13. Colophon.txt
+      work_id: WCA24DB94
+    df2cec1bac9543eea3e6392a49c20cf9:
+      title: 2. The simile of honey shielded by bees
+      base_file: 2. The simile of honey shielded by bees.txt
+      work_id: W98282ED2
+    45db31295cb94c43a8290f56f6ba5bae:
+      title: 3. The simile of kernels enclosed by husks
+      base_file: 3. The simile of kernels enclosed by husks.txt
+      work_id: WCE15B55A
+    60bc7d5a97c84545a1db94c2f9aa148d:
+      title: 4. The simile of a gold nugget in excrement
+      base_file: 4. The simile of a gold nugget in excrement.txt
+      work_id: W0016E144
+    541d83ef2d734f278d8df315db0dc0bd:
+      title: 5. The simile of a hidden treasure beneath the house of some poor person
+      base_file: 5. The simile of a hidden treasure beneath the house of some poor
+        person.txt
+      work_id: W94329E79
+    aa0e7e6a847347c49da4174f658112f7:
+      title: 6. The simile of a sprout in the seed
+      base_file: 6. The simile of a sprout in the seed.txt
+      work_id: W88DEDB81
+    3bafbbaa97f144e9bb1dc5840d799299:
+      title: 7. The simile of a tathāgata image wrapped in rotten rags
+      base_file: 7. The simile of a tathāgata image wrapped in rotten rags.txt
+      work_id: W0A5482BD
+    4649c1b2ab574b64a5274825d7324afd:
+      title: 8. The simile of the future universal emperor in the womb of a poor,
+        depressed woman
+      base_file: 8. The simile of the future universal emperor in the womb of a poor,
+        depressed woman.txt
+      work_id: W822BC628
+    0f5a6e6f693448b48f55affa147de4e1:
+      title: 9. The simile of golden figures within burned clay molds
+      base_file: 9. The simile of golden figures within burned clay molds.txt
+      work_id: W0A682E05
+    62d2a155c5d741d89750320bbc3149c4:
+      title: Invocation
+      base_file: Invocation.txt
+      work_id: W795A2C9B
+    33fceefcc52b44bcb594c06280d6fe94:
+      title: Title
+      base_file: Title.txt
+      work_id: W6A395D32
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:51:55.581266'
+last_modified_at: '2022-03-01T21:51:55.581274'

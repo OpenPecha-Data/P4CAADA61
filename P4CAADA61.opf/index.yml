@@ -1,0 +1,101 @@
+id: 162d298a032848718eee374b9c00e8f7
+annotation_type: index
+revision: '00001'
+annotations:
+  f881a0ca1f754db9ad15942443e27e9b:
+    work_id: W72492CD3
+    span:
+      vol: 0 Nidāna
+      start: 0
+      end: 9630
+  731f893863fc46b1a55eaef9408c2017:
+    work_id: W88898565
+    span:
+      vol: 1. The simile of a tathāgata in a lotus
+      start: 0
+      end: 2400
+  524b8cb3ae5d4a9cbcc848a9a83754cb:
+    work_id: WDFCD7AAF
+    span:
+      vol: 10. Merit from propagating the TGS
+      start: 0
+      end: 4575
+  db32200c412a475ab2ba6762d4efc763:
+    work_id: W245765E6
+    span:
+      vol: 11. The story of *Sadāpramuktaraśmi and *Anantaraśmi
+      start: 0
+      end: 7559
+  17fe24726bd44af8a782206d0accf1e6:
+    work_id: W31EC6CE9
+    span:
+      vol: 12. Ānanda questions the Buddha about the length of time till perfection
+      start: 0
+      end: 2849
+  97d988507e4f414ba18e4c9673abe5a9:
+    work_id: WCA24DB94
+    span:
+      vol: 13. Colophon
+      start: 0
+      end: 304
+  d5abf276aed34b0da4cd47719f864432:
+    work_id: W98282ED2
+    span:
+      vol: 2. The simile of honey shielded by bees
+      start: 0
+      end: 2351
+  7ce338abe3b44354ae833aa5a855d848:
+    work_id: WCE15B55A
+    span:
+      vol: 3. The simile of kernels enclosed by husks
+      start: 0
+      end: 1583
+  d827e969c7e84cf0b9ef3649118a1221:
+    work_id: W0016E144
+    span:
+      vol: 4. The simile of a gold nugget in excrement
+      start: 0
+      end: 1878
+  da69d4902cb5468ea1cfea256b5f34cb:
+    work_id: W94329E79
+    span:
+      vol: 5. The simile of a hidden treasure beneath the house of some poor person
+      start: 0
+      end: 2703
+  984ac39a2a0f483ab78848e744569f75:
+    work_id: W88DEDB81
+    span:
+      vol: 6. The simile of a sprout in the seed
+      start: 0
+      end: 1915
+  3bb0dfe2ba6a49818c76f224af426530:
+    work_id: W0A5482BD
+    span:
+      vol: 7. The simile of a tathāgata image wrapped in rotten rags
+      start: 0
+      end: 2449
+  791022b1bdc54c3baec41fbb4ba423fb:
+    work_id: W822BC628
+    span:
+      vol: 8. The simile of the future universal emperor in the womb of a poor, depressed
+        woman
+      start: 0
+      end: 2567
+  e125e436d927425da3892526017a18f1:
+    work_id: W0A682E05
+    span:
+      vol: 9. The simile of golden figures within burned clay molds
+      start: 0
+      end: 2903
+  c2cfd115c3284e089b1d926c070f93b5:
+    work_id: W795A2C9B
+    span:
+      vol: Invocation
+      start: 0
+      end: 17
+  d95125da6c604ad29261ccbacd391943:
+    work_id: W6A395D32
+    span:
+      vol: Title
+      start: 0
+      end: 130
